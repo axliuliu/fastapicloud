@@ -6,3 +6,6 @@ psutil
 distro
 grpcio-tools
 ptyprocess
+fastapi
+fastapi-cli
+uvicorn[standard]
